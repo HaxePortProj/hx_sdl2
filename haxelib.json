@@ -1,0 +1,14 @@
+{
+    "name": "hx_sdl2",
+    "url": "https://github.com/HaxePortProj/hx_sdl2",
+    "license": "Apache",
+    "tags": [
+        "native", "psvita"
+    ],
+    "description": "Haxe bindings for SDL2 for PSVita homebrew",
+    "version": "1.0.0",
+    "releasenote": "",
+    "contributors": [
+        "Hiro"
+    ]
+}
